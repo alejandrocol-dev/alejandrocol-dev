@@ -14,7 +14,6 @@
     <a href="https://github.com/alejandrocol-dev">
       <img src="https://img.shields.io/badge/GitHub-alejandrocol--dev-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=alejandrocol-dev&color=005691&style=flat&label=Profile+Views" alt="Profile Views" />
   </p>
 </div>
 
@@ -48,5 +47,9 @@
 ### Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alejandrocol-dev/alejandrocol-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alejandrocol-dev/alejandrocol-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alejandrocol-dev/alejandrocol-dev/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/alejandrocol-dev/alejandrocol-dev/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
