@@ -14,6 +14,7 @@
     <a href="https://github.com/alejandrocol-dev">
       <img src="https://img.shields.io/badge/GitHub-alejandrocol--dev-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=alejandrocol-dev&color=005691&style=flat&label=Profile+Views" alt="Profile Views" />
   </p>
 </div>
 
@@ -22,38 +23,30 @@
 ### About Me
 
 - **Computer Engineering Student** at **Universidad Tecnológica Nacional (UTN)**, Argentina.
-- **AI & Agentic Systems**: Highly focused on modern AI tools, agentic workflows, and autonomous agents to build smart automations and custom solutions.
-- **Mobile Development**: Engaged in mobile app development, building clean, practical, and responsive user experiences.
-- **Applied Engineering**: Interested in real-time processing, computer vision, and leveraging emerging AI tooling to solve complex problems efficiently.
+- **AI & Agentic Systems**: Focused on modern AI tooling, intelligent automations, and agentic workflows to build practical solutions.
+- **Mobile & Software Development**: Developing applications and systems with a focus on problem-solving, clean logic, and performance.
+- **Applied Engineering**: Passionate about turning complex ideas into automated workflows, real-time systems, and efficient software.
 
 ---
 
 ### Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,android,tensorflow,fastapi,git,github,docker,linux,postgres,vscode" alt="Tech Stack" />
-</div>
-
-<br/>
-
-| Category | Technologies & Tools |
-|:---|:---|
-| **Core & Languages** | Python, C++, SQL, Dart |
-| **AI & Agentic Workflows** | AI Tools, Agentic Workflows & Agents, OpenCV, MediaPipe, TensorFlow Lite |
-| **Mobile & Backend** | Mobile App Development (Flutter / Android), FastAPI, REST APIs |
-| **Environment & DevOps** | Git, GitHub, Docker, Linux, VS Code |
-
----
-
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alejandrocol-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrocol-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,androidstudio,mysql,git,github,vscode" alt="Tech Stack" />
 </div>
 
 ---
 
+### GitHub Streak
+
 <div align="center">
-  <sub>Built with focus & curiosity • Feel free to reach out!</sub>
+  <img src="https://streak-stats.demolab.com?user=alejandrocol-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alejandrocol-dev/alejandrocol-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
