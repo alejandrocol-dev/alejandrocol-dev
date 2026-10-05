@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Alejandro</h1>
   <p>
-    <strong>Computer Engineering Student | AI Agents, Automations & Mobile Development</strong>
+    <strong>Systems Engineering Student | AI Agents, Automations & Mobile Development</strong>
   </p>
 
   <p>
