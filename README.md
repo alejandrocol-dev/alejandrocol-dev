@@ -21,7 +21,7 @@
 
 ### About Me
 
-- **Computer Engineering Student** at **Universidad Tecnológica Nacional (UTN)**, Argentina.
+- **Systems Engineering Student** at **Universidad Tecnológica Nacional (UTN)**, Argentina.
 - **AI & Agentic Systems**: Focused on modern AI tooling, intelligent automations, and agentic workflows to build practical solutions.
 - **Mobile & Software Development**: Developing applications and systems with a focus on problem-solving, clean logic, and performance.
 - **Applied Engineering**: Passionate about turning complex ideas into automated workflows, real-time systems, and efficient software.
